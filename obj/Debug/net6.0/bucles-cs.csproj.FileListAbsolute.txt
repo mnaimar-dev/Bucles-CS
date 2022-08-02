@@ -1,0 +1,15 @@
+/Volumes/GoogleDrive/My Drive/Programación/C#/bucles-cs/bin/Debug/net6.0/bucles-cs
+/Volumes/GoogleDrive/My Drive/Programación/C#/bucles-cs/bin/Debug/net6.0/bucles-cs.deps.json
+/Volumes/GoogleDrive/My Drive/Programación/C#/bucles-cs/bin/Debug/net6.0/bucles-cs.runtimeconfig.json
+/Volumes/GoogleDrive/My Drive/Programación/C#/bucles-cs/bin/Debug/net6.0/bucles-cs.dll
+/Volumes/GoogleDrive/My Drive/Programación/C#/bucles-cs/bin/Debug/net6.0/bucles-cs.pdb
+/Volumes/GoogleDrive/My Drive/Programación/C#/bucles-cs/obj/Debug/net6.0/bucles-cs.csproj.AssemblyReference.cache
+/Volumes/GoogleDrive/My Drive/Programación/C#/bucles-cs/obj/Debug/net6.0/bucles-cs.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/GoogleDrive/My Drive/Programación/C#/bucles-cs/obj/Debug/net6.0/bucles-cs.AssemblyInfoInputs.cache
+/Volumes/GoogleDrive/My Drive/Programación/C#/bucles-cs/obj/Debug/net6.0/bucles-cs.AssemblyInfo.cs
+/Volumes/GoogleDrive/My Drive/Programación/C#/bucles-cs/obj/Debug/net6.0/bucles-cs.csproj.CoreCompileInputs.cache
+/Volumes/GoogleDrive/My Drive/Programación/C#/bucles-cs/obj/Debug/net6.0/bucles-cs.dll
+/Volumes/GoogleDrive/My Drive/Programación/C#/bucles-cs/obj/Debug/net6.0/refint/bucles-cs.dll
+/Volumes/GoogleDrive/My Drive/Programación/C#/bucles-cs/obj/Debug/net6.0/bucles-cs.pdb
+/Volumes/GoogleDrive/My Drive/Programación/C#/bucles-cs/obj/Debug/net6.0/bucles-cs.genruntimeconfig.cache
+/Volumes/GoogleDrive/My Drive/Programación/C#/bucles-cs/obj/Debug/net6.0/ref/bucles-cs.dll
